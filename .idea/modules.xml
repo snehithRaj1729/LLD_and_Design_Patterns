@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Observer_Design_Pattern/Observer_Design_Pattern.iml" filepath="$PROJECT_DIR$/Observer_Design_Pattern/Observer_Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype_Design_pattern/Prototype_Design_pattern.iml" filepath="$PROJECT_DIR$/Prototype_Design_pattern/Prototype_Design_pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton_design_pattern/Singleton_design_pattern.iml" filepath="$PROJECT_DIR$/Singleton_design_pattern/Singleton_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy_design_pattern/Strategy_design_pattern.iml" filepath="$PROJECT_DIR$/Strategy_design_pattern/Strategy_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/System_Design_Practice.iml" filepath="$PROJECT_DIR$/.idea/System_Design_Practice.iml" />
     </modules>
