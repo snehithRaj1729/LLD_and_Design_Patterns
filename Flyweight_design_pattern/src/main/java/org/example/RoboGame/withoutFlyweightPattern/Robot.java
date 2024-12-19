@@ -1,4 +1,6 @@
-package org.example.Game.withoutFlyweightPattern;
+package org.example.RoboGame.withoutFlyweightPattern;
+
+import org.example.RoboGame.withoutFlyweightPattern.Sprites;
 
 public class Robot {
     int coordinateX;

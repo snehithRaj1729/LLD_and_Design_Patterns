@@ -1,4 +1,4 @@
-package org.example.withFlyweightPattern;
+package org.example.RoboGame.withFlyweightPattern;
 
 public class Main {
     public static void main(String[] args) {

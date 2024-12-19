@@ -1,6 +1,6 @@
-package org.example.withFlyweightPattern;
+package org.example.RoboGame.withFlyweightPattern;
 
-import org.example.Game.withoutFlyweightPattern.Sprites;
+import org.example.RoboGame.withoutFlyweightPattern.Sprites;
 
 import java.util.HashMap;
 import java.util.Map;
