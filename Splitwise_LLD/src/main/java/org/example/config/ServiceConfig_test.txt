@@ -1,0 +1,2 @@
+tokenServiceUrl,tokenServiceAuthKey,patientServiceUrl,pingServiceHostServer,validateAddressUrl
+https://ssotest.medline.com/as/token.oauth2,WTF2eFliS3lHRUhGeW5jaDd3MHY0bjRZU3FBYTpsdllWOV9Ga0xaTFlQRElXTGRVN2hYRWIxWndh,https://testapic.medline.com/,muntstoc5,https://testapic.medline.com/ecom/patient/manage/v1/address/validate

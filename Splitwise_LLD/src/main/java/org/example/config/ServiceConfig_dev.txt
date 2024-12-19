@@ -1,0 +1,2 @@
+tokenServiceUrl,tokenServiceAuthKey,userContextServiceUrl,userContextSubscriptionKey,pingServiceHostServer
+https://ssodev.medline.com/as/token.oauth2,UExNT1JwajBWWkNsRmJkcGFHSzBCSjdSSndJYTplbkFfSk5mWkphNTBzazZTQXY2RVVzSGRIbTRh,https://devapic.medline.com/ecom/user/usercontext/v1/,6d1c7789742e49c18de47b670362d263,mundevoc1
