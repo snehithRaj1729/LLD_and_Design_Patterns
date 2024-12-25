@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbstractFactory_design_pattern/AbstractFactory_design_pattern.iml" filepath="$PROJECT_DIR$/AbstractFactory_design_pattern/AbstractFactory_design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer_Design_Pattern/Observer_Design_Pattern.iml" filepath="$PROJECT_DIR$/Observer_Design_Pattern/Observer_Design_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype_Design_pattern/Prototype_Design_pattern.iml" filepath="$PROJECT_DIR$/Prototype_Design_pattern/Prototype_Design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton_design_pattern/Singleton_design_pattern.iml" filepath="$PROJECT_DIR$/Singleton_design_pattern/Singleton_design_pattern.iml" />
