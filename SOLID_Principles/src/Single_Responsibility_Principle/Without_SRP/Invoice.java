@@ -1,7 +1,6 @@
 package Single_Responsibility_Principle.Without_SRP;
 
 public class Invoice {
-
     public void addInvoice(){
         System.out.println("Adding invoice");
     }
@@ -15,7 +14,6 @@ public class Invoice {
     }
 
     public void emailReport(){
-        System.out.println("Emailing report");
+        System.out.println("Email report");
     }
-
 }

@@ -1,4 +1,4 @@
-package Single_Responsibility_Principle.Without_SRP;
+package Single_Responsibility_Principle.With_SRP;
 
 public class Report {
     public void generateReport(){
